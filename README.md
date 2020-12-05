@@ -1,11 +1,11 @@
 # magic-mirror
-Dépôt de tous mes fichiers concernant mon projet LP IDO.
+Projet LP IDO sur la réalisation d'un Mirroir Magique.
 ## Recherches
 ### Solutions proposées
 ### Solution choisie
 ### Matériaux nécessaires
 - [x] Micro ordinateur : <a href="https://www.amazon.fr/LABISTS-Dissipateur-Ventilateurs-Alimentation-Interrupteur/dp/B089NHYFN5">Raspberry Pi 4 B 8GB</a>
-- [ ] Ecran : <a href="https://www.lcd-compare.com/televiseur-TELTF2662LED1201-TELEFUNKEN-TF2662LED1201.htm">Telefunken TF 2662 LED 1201</a>
+- [x] Ecran : <a href="https://www.lcd-compare.com/televiseur-TELTF2662LED1201-TELEFUNKEN-TF2662LED1201.htm">Telefunken TF 2662 LED 1201</a>
 - [ ] Plaque de ver à effet mirroir
 ### Matériaux optionnels
 - [ ] Tactile
