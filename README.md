@@ -6,6 +6,8 @@ Projet LP IDO sur la réalisation d'un Mirroir Magique.
 ### Matériaux nécessaires
 - [x] Micro ordinateur : <a href="https://www.amazon.fr/LABISTS-Dissipateur-Ventilateurs-Alimentation-Interrupteur/dp/B089NHYFN5">Raspberry Pi 4 B 8GB</a>
 - [x] Ecran : <a href="https://www.lcd-compare.com/televiseur-TELTF2662LED1201-TELEFUNKEN-TF2662LED1201.htm">Telefunken TF 2662 LED 1201</a>
+	- Résolution : 1366x768
+	- Temps de réponse : 6ms
 - [ ] Plaque de ver à effet mirroir
 ### Matériaux optionnels
 - [ ] Tactile
